@@ -9,6 +9,7 @@
         "deque": "cpp",
         "list": "cpp",
         "string": "cpp",
-        "ios": "cpp"
+        "ios": "cpp",
+        "valarray": "cpp"
     }
 }
